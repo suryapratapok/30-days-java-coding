@@ -3,7 +3,7 @@ package Day1;
 import java.util.Scanner;
 
 public class factorial {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
