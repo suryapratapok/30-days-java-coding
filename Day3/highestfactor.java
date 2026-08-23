@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class highestfactor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.println("enter n:");
         int n = sc.nextInt();
         int hf = 1;
