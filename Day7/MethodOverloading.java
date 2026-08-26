@@ -4,6 +4,7 @@ package Day7;
 public class MethodOverloading {
     public static void main(String[] args) {
         System.out.println(sum(78,2,78));
+        System.out.println(sum(78,89));
         greet("Modi",80);
 
 
